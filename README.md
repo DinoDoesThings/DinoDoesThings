@@ -1,6 +1,6 @@
 # Hi there, I'm Albian! 👋
 
-Welcome to my GitHub! I'm a developer and student currently studying at Swinburne University of Technology Sarawak. I enjoy building robust applications, exploring object-oriented design, and bringing interactive experiences to life through code. 
+Welcome to my GitHub! I'm a developer and student currently studying at Swinburne University of Technology Sarawak. I enjoy building robust applications and am currently experimenting with Artificial Intelligence.
 
 ## 🚀 About Me
 
@@ -10,6 +10,7 @@ Welcome to my GitHub! I'm a developer and student currently studying at Swinburn
 
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -33,3 +34,4 @@ Welcome to my GitHub! I'm a developer and student currently studying at Swinburn
 
 ---
 ⭐️ *Feel free to explore my repositories below to see what I've been building!*
+
