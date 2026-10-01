@@ -1,37 +1,56 @@
-# Hi there, I'm Albian! 👋
+<h1 align="center">Hi, I'm Albian 👋</h1>
 
-Welcome to my GitHub! I'm a developer and student currently studying at Swinburne University of Technology Sarawak. I enjoy building robust applications and am currently experimenting with Artificial Intelligence.
+<p align="center">
+  Computer Science student at <b>Swinburne University of Technology Sarawak</b><br>
+  Majoring in Artificial Intelligence · Based in Kuching, Malaysia
+</p>
 
-## 🚀 About Me
-
-- 🎓 I'm currently studying at **Swinburne University of Technology Sarawak Campus**.
-  
-## 🛠️ Tech Stack & Tools
-
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-### Databases
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinoDoesThings&theme=radium&hide_border=true" alt="Albian's GitHub Streak" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/albian-seo-933aa8363">LinkedIn</a> ·
+  <a href="mailto:albianseo@gmail.com">Email</a> ·
+  <a href="#-projects">Projects</a>
+</p>
 
 ---
-⭐️ *Feel free to explore my repositories below to see what I've been building!*
 
+## 👤 About
+
+- 🎓 Bachelor of Computer Science (Artificial Intelligence), Swinburne, since 2025
+- 🤖 Exploring AI and building applications across systems, web and game programming
+- 💼 Currently looking for an internship
+
+## 🛠 Tech Stack
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,php&perline=6" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td><b>Web</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,php&perline=6" alt="Web" /></td>
+  </tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet&perline=6" alt=".NET" /> &nbsp;Raylib</td>
+  </tr>
+  <tr>
+    <td><b>Data & Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=sqlite,aws&perline=6" alt="Data and cloud" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&perline=6" alt="Tools" /></td>
+  </tr>
+</table>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DinoDoesThings&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinoDoesThings&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+<p align="center"><i>Browse my pinned repositories below to see what I've been building.</i></p>
